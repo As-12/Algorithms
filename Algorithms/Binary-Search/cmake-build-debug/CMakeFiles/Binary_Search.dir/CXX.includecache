@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thanaphonchavengsaksongkram/Projects/Algorithms/Algorithms/Binary-Search/main.cpp
+iostream
+-
+vector
+-
+
